@@ -58,7 +58,7 @@ const Admin = () => {
                             Listo
                         </button>
                     </div>
-                )): <p>No hay ordenes</p>}
+                )): <p className='font-principal text-3xl text-center'>No hay ordenes</p>}
             </div>
         </div>
     </AdminLayout>
